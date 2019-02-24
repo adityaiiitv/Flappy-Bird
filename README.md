@@ -1,6 +1,11 @@
 # Flappy-Bird
 Created game using Unity and Playmaker. Press space to jump and avoid obstacles.
 
+![Say "Donald Trump"](https://github.com/adityaiiitv/Flappy-Bird/blob/master/Pictures/Screenshot%20(47).png)
+
+Initial Screen
+
+
 Working:
 
 (1) Create bird and a wall prefab
@@ -16,9 +21,6 @@ Tools: Unity, C#, Playmaker
 
 Future extension: Bring in the bird character and walls with bricks
 
-![Say "Donald Trump"](https://github.com/adityaiiitv/Flappy-Bird/blob/master/Pictures/Screenshot%20(47).png)
-
-Initial Screen
 
 
 ![The President is here](https://github.com/adityaiiitv/Flappy-Bird/blob/master/Pictures/Screenshot%20(48).png)
