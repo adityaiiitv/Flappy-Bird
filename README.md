@@ -1,5 +1,5 @@
 ![](https://github.com/adityaiiitv/Flappy-Bird/blob/master/Pictures/39526abb-3782-4cb6-ba65-f81fc7e0f00c.png)
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="aditya-prakash-74039b14b"><a class="LI-simple-link" href='https://www.linkedin.com/in/aditya-prakash-74039b14b?trk=profile-badge'>Aditya Prakash - Linkedin</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="aditya-prakash-74039b14b"><a class="LI-simple-link" href='https://www.linkedin.com/in/aditya-prakash-74039b14b?trk=profile-badge'>Aditya Prakash - LinkedIn</a></div>
 # Flappy-Bird
 Created game using Unity and Playmaker. Press space to jump and avoid obstacles.
 
