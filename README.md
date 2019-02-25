@@ -1,3 +1,4 @@
+![](https://github.com/adityaiiitv/Flappy-Bird/blob/master/Pictures/39526abb-3782-4cb6-ba65-f81fc7e0f00c.png)
 # Flappy-Bird
 Created game using Unity and Playmaker. Press space to jump and avoid obstacles.
 
